@@ -1,10 +1,9 @@
 # Tendable Coding Assessment
 
 ## Usage
+```
+bundle exec questionnaire.rb
 
-```sh
-bundle
-ruby questionnaire.rb
 ```
 
 ## Goal
